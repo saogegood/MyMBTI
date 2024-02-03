@@ -1,3 +1,7 @@
+效果演示：https://www.saogegood.com/MBTI/testing/mbti_test_93questions.htm
+说明：
+  考虑到测试类的页面一般情况基本无太大变动，或变动较少，所以CSS,HTML,SCRIPT全放在一个文件里是有好处的（十分方便复制与部署），不依赖任何其它文件，直接实现MBTI测试效果。欢迎改造与引用。
+
 测试页面开头效果：
 ![image](https://github.com/saogegood/MyMBTI/assets/27845781/8f98bae5-d0e7-4c4e-b595-aa86924c3997)
 测试内容（PC)
@@ -10,4 +14,4 @@
 测试结果（移动）
 ![image](https://github.com/saogegood/MyMBTI/assets/27845781/a8ada248-f2c1-4345-b661-6a6478132bed)
 
-效果演示：https://www.saogegood.com/MBTI/testing/mbti_test_93questions.htm
+
