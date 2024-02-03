@@ -28,5 +28,5 @@
 
 ![测试结果（移动）](https://github.com/saogegood/MyMBTI/assets/27845781/a8ada248-f2c1-4345-b661-6a6478132bed)
 
-欢迎对项目进行改造与引用。
+欢迎对项目进行分享，改造或引用。
 
